@@ -2,11 +2,9 @@
      Hi there 👋, I'm Furkan!
 </p>
 
-![](https://komarev.com/ghpvc/?username=furkantzn)
-
-## Github Stats
-
 ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkantzn&show_icons=true&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=furkantzn)
 
 <!--
 **furkantzn/furkantzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

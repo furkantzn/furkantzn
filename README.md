@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=furkantzn)
 
-## Github Stats And Languages ☠️
+## Github Stats
 
 ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkantzn&show_icons=true&theme=dark)
 

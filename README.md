@@ -1,8 +1,15 @@
-<p align="center">
-     Hi there 👋, I'm Furkan!
-</p>
+# Hello! 👋
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkantzn&show_icons=true&theme=dark)
+I'm Furkan 👨‍💻
+
+## About me
+- 🌱 I’m currently learning Kotlin & Jetpack Compose.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/furkan-tüzün/)
+
+## Languages and Tecknologies
+- 🚀 Android (Kotlin, Jetpack Compose)
+- 🌐 C#, Java
+- 🔧 Firebase, HMS, Unity
 
 ![](https://komarev.com/ghpvc/?username=furkantzn)
 

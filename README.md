@@ -6,7 +6,7 @@ I'm Furkan 👨‍💻
 - 🌱 I’m currently learning Kotlin & Jetpack Compose.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/furkan-tüzün/)
 
-## Languages and Tecknologies
+## Languages and Technologies
 - 🚀 Android (Kotlin, Jetpack Compose)
 - 🌐 C#, Java
 - 🔧 Firebase, HMS, Unity
